@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title> Problemas Alimenticios </title>
+
+   <style type="text/css">
+   p
+   {
+    background-color:white;
+   }
+  </style>
+</head>
+
+<body style="background-color:mistyrose;" oncontextmenu="return false" onselectstart="return false" ondragstart="return false"
+     onload="alert(´Bienvenidos a esta pagina mantente saludable´);">
+ <p> <center> <font face="Rockwell Extra Bold" color="fuchsia"> <h1> <b> TRANSTORNOS ALIMENTICIOS </b> </h1> </font> </center> </p>
+  <br> <font face="Arial black" color="navy" size="4"> <b> Introducción </b> </font>
+  <br> Los trastornos alimentarios son afecciones graves de salud mental. Implican problemas serios sobre cómo se piensa sobre la comida y
+   la conducta alimenticia. Se puede comer mucho menos o mucho más de lo necesario. <a href="Desordenes Alimenticios.html"><u> Mas Informacion. </u></a>
+  <center> <img src="images (3).jpg" height=280 width=420> </center>
+  <a href="https://www.mayoclinic.org/es-es/diseases-conditions/eating-disorders/symptoms-causes/syc-20353603"> <u> <i> <b> Ayuda Medica </b> </i> </u> </a>
+
+ <p> <center> <font face="Rockwell Extra Bold" color="fuchsia"> <h1> <b> ANOREXIA NERVIOSA </b> </h1> </font> </center> </p>
+  <br> <font face="Arial black" color="navy" size="4"> <b> Introducción </b> </font>
+  <br> Bulimia, desorden alimenticio causado por la ansiedad y por una preocupación excesiva por el peso corporal y el aspecto físico. Se 
+   caracteriza por episodios repetidos de ingesta excesiva seguidos de provocación del vómito, uso de laxantes, dietas exageradas y/o abuso 
+   del ejercicio para controlar el peso. <a href="Anorexia Nerviosa.html"><u> Mas Informacion. </u></a> 
+  <center> <img src="Anorexia-nerviosa.jpg" height=280 width=320> </center>
+  <a href="https://www.cat-barcelona.com/faqs/view/que-es-la-anorexia/"> <u> <i> <b> Ayuda Medica </b> </i> </u> </a>
+
+ <p> <center> <font face="Rockwell Extra Bold" color="fuchsia"> <h1> <b> BULIMIA NERVIOSA </b> </h1> </font> </center> </p>
+  <br> <font face="Arial black" color="navy" size="4"> <b> Introducción </b> </font>
+  <br> Anorexia nerviosa, enfermedad que se caracteriza por el miedo intenso a ganar peso y por una imagen distorsionada del propio cuerpo 
+   (dismorfofobia). Conduce a un grave adelgazamiento debido a una dieta exagerada y a un exceso de ejercicio. No se asocia con ninguna 
+   otra enfermedad orgánica previa. <a href="Bulimia Nerviosa.html"> <u> Mas Informacion. </u></a>
+  <center> <img src="Bulimia-nerviosa.jpg" height=280 width=320> </center>
+  <a href="https://cuidateplus.marca.com/enfermedades/psiquiatricas/bulimia.html"> <u> <i> <b> Ayuda Medica </b> </i> </u> </a>
+
+</body>
+</html>
